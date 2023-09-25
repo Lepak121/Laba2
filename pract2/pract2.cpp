@@ -5,9 +5,9 @@
 using namespace std;
 int main()
 {
-	double Pi = 4 * atan(1.);
-	double a;
-	double z1;
+	//double Pi = 4 * atan(1.);
+	//double a;
+	//double z1;
 	double z2;
 	cout << "a = "; cin >> a;
 	z1 = cos(a) + sin(a) + cos(3 * a) + sin(3 * a);
